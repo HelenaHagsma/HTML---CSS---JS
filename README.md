@@ -26,3 +26,5 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 > Exercícios de Fixação com Funções em JS: https://helenahagsma.github.io/Functions_JS/
 
 > DOM e Formulários em JS: https://helenahagsma.github.io/DOM_FormulariosJS/
+
+> Carrinho de compras virtual (Adicionar produto e preço): https://helenahagsma.github.io/virtualShoppingCart/
