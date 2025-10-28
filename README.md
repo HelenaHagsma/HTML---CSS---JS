@@ -23,6 +23,10 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 
 > Cardápio Interativo - Exercício utilizando array: https://helenahagsma.github.io/menu_project/
 
+> Exercícios DOM e Formulários: https://helenahagsma.github.io/DOM_FormulariosJS/
+
+> Exercícios DOM e Formulários 2: https://helenahagsma.github.io/DOM_SecondClass/
+
 > Exercícios de Fixação com Funções em JS: https://helenahagsma.github.io/Functions_JS/
 
 > DOM e Formulários em JS: https://helenahagsma.github.io/DOM_FormulariosJS/
