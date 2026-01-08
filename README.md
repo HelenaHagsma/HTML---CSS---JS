@@ -30,3 +30,15 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 > Exercícios de Fixação com Funções em JS: https://helenahagsma.github.io/Functions_JS/
 
 > Carrinho de compras virtual (Adicionar produto e preço): https://helenahagsma.github.io/virtualShoppingCart/
+
+> Exercícios com Funções em JS: https://helenahagsma.github.io/functionsExercises/
+
+> Introdução a Eventos em JS: https://helenahagsma.github.io/Eventos_JS/
+
+> Introdução a LocalStorage e JSON: https://helenahagsma.github.io/LocalStorage/
+
+> Projeto Notas Rápidas: https://helenahagsma.github.io/ProjetoNotasRapidas/
+
+> Outra versão do Projeto Notas Rápidas: https://helenahagsma.github.io/MiniProjetoNotas/
+
+> Projeto de Controle Pessoal de Finanças: https://helenahagsma.github.io/ControleDeFinancas/ 
