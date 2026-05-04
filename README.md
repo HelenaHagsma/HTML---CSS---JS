@@ -41,4 +41,6 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 
 > Outra versão do Projeto Notas Rápidas: https://helenahagsma.github.io/MiniProjetoNotas/
 
-> Projeto de Controle Pessoal de Finanças: https://helenahagsma.github.io/ControleDeFinancas/ 
+> Projeto de Controle Pessoal de Finanças: https://helenahagsma.github.io/ControleDeFinancas/
+
+> Primeiros Passos em Tabelas HTML: https://helenahagsma.github.io/tables_html/
